@@ -1,8 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=constdreamcoder&show_icons=true&theme=gruvbox)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnfxksms12)](https://solved.ac/qnfxksms12)
-
  
 ## 💻 Tech stack 💻
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFE400?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
