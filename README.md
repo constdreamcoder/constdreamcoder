@@ -10,6 +10,10 @@
   
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"/>
   
+## 📗 Tech stack currently studying
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  
 ## 📫 Contact
 <a href="mailto:scdreamricher@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&flat-square&logoGmail&logoColor=white" ></a>
 <a href="mailto:tncks94@navver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&flat-square&logoGmail&logoColor=white" ></a>
