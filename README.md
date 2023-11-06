@@ -6,18 +6,20 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constdreamcoder&layout=compact)](https://github.com/constdreamcoder/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnfxksms12)](https://solved.ac/qnfxksms12) 
 ## 💪 Tech stack 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFE400?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+
+### ✔Mobile
+  <img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> 
   
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white"/>
+### ✔Web  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFE400?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
+
+### ✔Infrastructure
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>
   
 ## 📗 Tech stack currently studying
 
-### ✔web
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
-
-
-### ✔mobile
-<img src="https://img.shields.io/badge/REACT NATIVE-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+### ✔Backend
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   
 ## 📫 Contact
 <a href="mailto:scdreamricher@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&flat-square&logoGmail&logoColor=white" ></a>
