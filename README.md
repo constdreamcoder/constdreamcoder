@@ -2,7 +2,7 @@
 
 <p>
 Driven iOS developer with a focus on clean code, best practices, and delivering seamless user experiences.<br>
-Always seeking new challenges to improve my skills.✨<br>
+Always seeking new challenges to improve my skills. ✨<br>
 <p/>
   
 ## 📚 Skills
