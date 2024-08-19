@@ -5,7 +5,7 @@ Driven iOS developer with a focus on clean code, best practices, and delivering 
 Always seeking new challenges to improve my skills.<br>
 <p/>
   
-## 💪 Skills
+## 📚 Skills
 
 - **Language**: `Swift`
 - **Asynchronous Programming**: `RxSwift`, `Combine`
