@@ -8,7 +8,7 @@ Always seeking new challenges to improve my skills. ✨<br>
 ## 📚 Skills
 
 - **Language**: `Swift`
-- **Asynchronous Programming**: `RxSwift`, `Combine`
+- **Asynchronous Programming**: `RxSwift`, `Combine`, `Swift Concurrency`
 - **Database**: `UserDefault & Keychain`, `Realm`
 - **Network**: `Alamofire & Moya`
 - **Deployment**: `Firebase Analytics`, `Firebase Crashlytics`
