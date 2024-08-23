@@ -14,7 +14,7 @@ Always seeking new challenges to improve my skills. ✨<br>
 - **Network**: `Alamofire & Moya`
 - **Deployment**: `Firebase Analytics`, `Firebase Crashlytics`
 - **Tools**: `Git & Github`, `Figma`, `Jira`, `Swagger`
-- **ETC Libraries**: `IAMPort`, `SocketIO`
+- **ETC Libraries**: `SocketIO`, `PG Payment Libraries`
 
 <!--
 
