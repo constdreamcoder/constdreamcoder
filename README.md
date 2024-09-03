@@ -12,7 +12,7 @@ Always seeking new challenges to improve my skills. ✨<br>
 - **Architectures**: `MVVM`, `MVI`, `Redux`
 - **Asynchronous Programming**: `RxSwift`, `Combine`, `Swift Concurrency`
 - **Network**: `Alamofire & Moya`
-- **Database**: `UserDefault & Keychain`, `Realm`
+- **Database**: `UserDefaults`, `Keychain`, `Realm`
 - **Environment**: `Firebase Analytics`, `Firebase Crashlytics`
 - **Collabolation**: `Git & Github`, `Figma`, `Jira`, `Swagger`
 - **ETC**: `WebSocket`, `PG Payment Libraries`
