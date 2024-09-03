@@ -14,7 +14,7 @@ Always seeking new challenges to improve my skills. ✨<br>
 - **Network**: `Alamofire & Moya`
 - **Database**: `UserDefaults`, `Keychain`, `Realm`
 - **Environment**: `Firebase Analytics`, `Firebase Crashlytics`
-- **Collabolation**: `Git & Github`, `Figma`, `Jira`, `Swagger`
+- **Collabolation**: `Git & Github`, `Figma`, `Zeplin`, `Jira`, `Swagger`
 - **ETC**: `WebSocket`, `PG Payment Libraries`
 
 <!--
