@@ -9,12 +9,13 @@ Always seeking new challenges to improve my skills. ✨<br>
 
 - **Language**: `Swift`
 - **UI Frameworks**: `UIKit`, `SwiftUI`
+- **Architectures**: `MVVM`, `MVI`, `Redux`
 - **Asynchronous Programming**: `RxSwift`, `Combine`, `Swift Concurrency`
-- **Database**: `UserDefault & Keychain`, `Realm`
 - **Network**: `Alamofire & Moya`
-- **Deployment**: `Firebase Analytics`, `Firebase Crashlytics`
-- **Tools**: `Git & Github`, `Figma`, `Jira`, `Swagger`
-- **ETC Libraries**: `SocketIO`, `PG Payment Libraries`
+- **Database**: `UserDefault & Keychain`, `Realm`
+- **Environment**: `Firebase Analytics`, `Firebase Crashlytics`
+- **Collabolation**: `Git & Github`, `Figma`, `Jira`, `Swagger`
+- **ETC**: `WebSocket`, `PG Payment Libraries`
 
 <!--
 
