@@ -9,7 +9,7 @@ Always seeking new challenges to improve my skills. ✨<br>
 
 - **Language**: `Swift`
 - **UI Frameworks**: `UIKit`, `SwiftUI`
-- **Architectures**: `MVVM`, `MVI`, `Redux`
+- **Architectures**: `MVVM`, `MVI`, `Redux`, `Clean Architecture`
 - **Asynchronous Programming**: `RxSwift`, `Combine`, `Swift Concurrency`
 - **Network**: `Alamofire & Moya`
 - **Database**: `UserDefaults`, `Keychain`, `Realm`
