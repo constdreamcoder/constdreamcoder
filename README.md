@@ -17,6 +17,9 @@ Always seeking new challenges to improve my skills. ✨<br>
 - **Collabolation**: `Git & Github`, `Figma`, `Zeplin`, `Jira`, `Swagger`
 - **ETC**: `WebSocket`, `PG Payment Libraries`
 
+## 📗 Currently Learning
+- **Flutter** 
+
 <!--
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=qnfxksms12)](https://solved.ac/qnfxksms12) 
