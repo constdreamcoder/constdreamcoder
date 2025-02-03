@@ -7,18 +7,25 @@ Always seeking new challenges to improve my skills. ✨<br>
   
 ## 📚 Skills
 
-- **Language**: `Swift`
-- **UI Frameworks**: `UIKit`, `SwiftUI`
-- **Architectures**: `MVVM`, `MVI`, `Redux`, `Clean Architecture`
-- **Asynchronous Programming**: `RxSwift`, `Combine`, `Swift Concurrency`
-- **Network**: `Alamofire & Moya`
-- **Database**: `UserDefaults`, `Keychain`, `Realm`
-- **Environment**: `Firebase Analytics`, `Firebase Crashlytics`
-- **Collabolation**: `Git & Github`, `Figma`, `Zeplin`, `Jira`, `Swagger`
-- **ETC**: `WebSocket`, `PG Payment Libraries`
+- **Flutter**
+  - **Architectures**: `MVC`, `MVVM`, `Clean Architecture`
+  - **State Management**: `Riverpod`
+  - **Network**: `Dio`, `Retrofit`
+  - **Database**: `Flutter Secure Storage`
+  - **Navigation**: `Go_router`
+  - **Dependency Injection**: `Get_it`, `Injectable`
+  - **Others**: `Freezed`, `Json_serializable`, `Hero Widget`, `Shimmer`, `Debounce_throttle`
+  - **Collabolation**: `Git & Github`, `Figma`, `Swagger`
 
-## 📗 Currently Working On
-- **Flutter** 
+- **Swift**
+  - **UI Frameworks**: `UIKit`, `SwiftUI`
+  - **Architectures**: `MVVM`, `MVI`, `Redux`, `Clean Architecture`
+  - **Asynchronous Programming**: `RxSwift`, `Combine`, `Swift Concurrency`
+  - **Network**: `Alamofire & Moya`
+  - **Database**: `UserDefaults`, `Keychain`, `Realm`
+  - **Environment**: `Firebase Analytics`, `Firebase Crashlytics`
+  - **Collabolation**: `Git & Github`, `Figma`, `Zeplin`, `Jira`, `Swagger`
+  - **ETC**: `WebSocket`, `PG Payment Libraries`
 
 <!--
 
