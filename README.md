@@ -14,6 +14,7 @@ Always seeking new challenges to improve my skills. ✨<br>
   - **Database**: `Flutter Secure Storage`
   - **Navigation**: `Go_router`
   - **Dependency Injection**: `Get_it`, `Injectable`
+  - **Test**: `Mocktail`
   - **Others**: `Freezed`, `Json_serializable`, `Hero Widget`, `Shimmer`, `Debounce_throttle`
   - **Collabolation**: `Git & Github`, `Figma`, `Swagger`
 
