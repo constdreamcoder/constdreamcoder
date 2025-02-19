@@ -9,7 +9,7 @@ Always seeking new challenges to improve my skills. ✨<br>
 
 - **Flutter**
   - **Architectures**: `MVC`, `MVVM`, `Clean Architecture`
-  - **State Management**: `Riverpod`
+  - **State Management**: `Riverpod`, `GetX` 
   - **Network**: `Dio`, `Retrofit`
   - **Database**: `Flutter Secure Storage`
   - **Navigation**: `Go_router`
